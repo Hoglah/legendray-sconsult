@@ -15,7 +15,7 @@ export default function App() {
       <About />
       <Services />
       <Portfolio />
-      <Gallery />
+      <Gallery url="http://localhost:4000" />
       <Contact />
       <Footer />
     </>

@@ -95,7 +95,7 @@ const Portfolio = () => {
           text-md font-semibold rounded-md  mt-5 lg:mt-0"
                 onClick={() =>
                   document
-                    .getElementById("contact")
+                    .getElementById("gallery")
                     .scrollIntoView({ behavior: "smooth" })
                 }
               >
